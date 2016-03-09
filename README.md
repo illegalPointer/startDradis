@@ -1,2 +1,2 @@
 # startDradis
-Script to boot Dradis on backgroup and backup database
+Script to boot Dradis on background and backup database
